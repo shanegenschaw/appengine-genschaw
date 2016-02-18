@@ -1,4 +1,3 @@
-*.java
-*.class
-*.xml
-*.properties
+/META-INF
+/com
+/log4j.properties
